@@ -11,10 +11,10 @@
 
 let allMusic = [
   {
-    name: "(no copyright music) chill type beat “imagine” _ prod. by lukrembo",
+    name: "chill type beat “imagine”",
     artist: "LuKremBo",
     img: "imagine",
-    src: "(no copyright music) chill type beat “imagine” _ prod. by lukrembo"
+    src: "chill type beat “imagine”"
   },
   {
     name: "RDjavi x El Canelilla - La Para De La Ciudad (Video Oficial)",
