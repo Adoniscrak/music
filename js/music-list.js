@@ -4,7 +4,7 @@ let allMusic = [
     name: "chill type beat “imagine”",
     artist: "LuKremBo",
     img: "imagine",
-    src: "imagine"
+    src: "chill type beat “imagine”"
   },
   {
     name: "RDjavi x El Canelilla - La Para De La Ciudad (Video Oficial)",
@@ -15,7 +15,7 @@ let allMusic = [
   {
     name: "Redchinawave",
     artist: "Redchinawave",
-    img: "chill type beat “imagine”",
+    img: "Redchinawave",
     src: "Redchinawave"
   },
 ];
